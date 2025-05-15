@@ -60,25 +60,4 @@ CalleyAutomation/
 
    Or directly run `testng.xml` in your IDE.
 
----
 
-## 📸 Demo Video & CSV Sample
-
-- [🔗 Video Demo](https://cstechin-my.sharepoint.com/:f:/g/personal/swati_cstech_in/EiNHm6FaWKBHmSYTFaslNPQBDay-xoP3W7umaijAWM7f1A?e=jUIgY4)
-- [📄 Sample CSV File](https://cstechin-my.sharepoint.com/:x:/g/personal/swati_cstech_in/ERNc60QjnflIlTO1LvLMvbEB1PS_nHJ5IQ43oEBRDlYrug?e=zaeTG1)
-
----
-
-## 📧 Submission
-
-If you're submitting for an internship:
-- Upload project as ZIP or GitHub link
-- Share your video demo via Google Drive
-- Email: [hr@cstech.in](mailto:hr@cstech.in)
-
----
-
-## ✍️ Author
-
-- **Your Name**
-- [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) (optional)
